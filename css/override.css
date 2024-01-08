@@ -64,3 +64,25 @@ pre {
 .code {
     color: #555;
 }
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.video-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.video-container iframe {
+  width: 300px;
+  height: 300px;
+}

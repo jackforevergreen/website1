@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+Hi there! Welcome to my blog. 
 
-Maybe say a some things about yourself.
+The goal of this blog is to document my journey as I build my first product. I am building a carbon calculator and I want to document every step of the way to show the process from Idea to Reality
 
-Or maybe what you plan to blog about.
+I hope this blog can be used for future developers to see my thought process and methods in building and how I came to the conclusions I did 
+
+It will also be cool to learn more about HTML website and Github as that is how I am hosting this blog. 
+
+Thanks and I hope you enjoy!
+
